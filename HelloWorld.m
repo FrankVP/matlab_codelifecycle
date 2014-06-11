@@ -4,7 +4,5 @@ function [] = HelloWorld()
 
 disp('Hello World');
 
-disp('Another Hello World');
-
 end
 
